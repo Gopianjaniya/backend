@@ -1,18 +1,14 @@
 {
-  "name": "expressbackend",
+  "name": "second",
   "version": "1.0.0",
-  "description": "a basic app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "node"
-  ],
-  "author": "gopi",
+  "author": "me",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "dotenv": "^17.2.3",
     "express": "^5.1.0"
   }
 }
